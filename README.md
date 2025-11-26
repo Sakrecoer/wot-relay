@@ -126,6 +126,9 @@ cd wot-relay
 
 #### 2. Configure Environment
 ```bash
+# Create the database directory
+mkdir db
+
 # Copy the example environment file
 cp example.env .env
 
