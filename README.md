@@ -78,7 +78,7 @@ Don't want to run the relay, just want to connect to some? Here are some availab
 #### Development/Testing
 ```bash
 # Clone the repository
-git clone https://github.com/bitvora/wot-relay.git
+git clone https://github.com/girino/wot-relay
 cd wot-relay
 
 # Copy environment template
@@ -120,7 +120,7 @@ cat tor/data/relay/hostname
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/bitvora/wot-relay.git
+git clone https://github.com/girino/wot-relay
 cd wot-relay
 ```
 
